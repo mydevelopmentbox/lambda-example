@@ -4,6 +4,6 @@ Resources:
       Type: AWS::Lambda::Function
       Properties:
         Name: "my-deployment-function"
-        Alias: "prodAlias"
+        Alias: "ProdAlias"
         CurrentVersion: "2"
         TargetVersion: "3"
