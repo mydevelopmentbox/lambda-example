@@ -5,5 +5,5 @@ Resources:
       Properties:
         Name: "my-deployment-function"
         Alias: "ProdAlias"
-        CurrentVersion: "2"
-        TargetVersion: "3"
+        CurrentVersion: "3"
+        TargetVersion: "6"
